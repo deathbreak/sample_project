@@ -1,0 +1,1 @@
+django模板文件存放目录(tips.txt可以删除)
